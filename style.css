@@ -1,8 +1,4 @@
-*{
-    border: 2px solid red;
-    .container 
-    ol
-    { list-style-type: lower-roman;}
-      }
-        
+h1 {
+  color: rgb(31, 94, 125);
 }
+* {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
